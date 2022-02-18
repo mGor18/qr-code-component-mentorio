@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-code-component-mentorio/static/css/main.764679a2.css",
+    "main.js": "/qr-code-component-mentorio/static/js/main.20ab2ebe.js",
+    "index.html": "/qr-code-component-mentorio/index.html",
+    "main.764679a2.css.map": "/qr-code-component-mentorio/static/css/main.764679a2.css.map",
+    "main.20ab2ebe.js.map": "/qr-code-component-mentorio/static/js/main.20ab2ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764679a2.css",
+    "static/js/main.20ab2ebe.js"
+  ]
+}
