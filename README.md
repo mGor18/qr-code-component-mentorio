@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-with-react-UXDDUzSIV
 - Live Site URL: https://mgor18.github.io/qr-code-component-mentorio/
 
 ## My process
